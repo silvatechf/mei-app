@@ -1,4 +1,4 @@
-# MEI em Dia 2.0
+# MEI em Dia
 
 **Guia independente para ajudar o Microempreendedor Individual (MEI) a compreender orientações sobre débitos, encontrar canais oficiais e organizar tarefas e prazos.**
 
